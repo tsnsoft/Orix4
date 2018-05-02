@@ -1,0 +1,14 @@
+C:\CSHARP_WORKSPACE\Orix4\Orix4\bin\Debug\Orix4.exe.config
+C:\CSHARP_WORKSPACE\Orix4\Orix4\bin\Debug\Orix4.exe
+C:\CSHARP_WORKSPACE\Orix4\Orix4\bin\Debug\Orix4.pdb
+C:\CSHARP_WORKSPACE\Orix4\Orix4\obj\Debug\kz.tsnproff.Orix4.FormMain.resources
+C:\CSHARP_WORKSPACE\Orix4\Orix4\obj\Debug\kz.tsnproff.Orix4.Properties.Resources.resources
+C:\CSHARP_WORKSPACE\Orix4\Orix4\obj\Debug\Orix4.csproj.GenerateResource.Cache
+C:\CSHARP_WORKSPACE\Orix4\Orix4\obj\Debug\Orix4.exe
+C:\CSHARP_WORKSPACE\Orix4\Orix4\obj\Debug\Orix4.pdb
+C:\CSHARP_WORKSPACE\Orix4\Orix4\obj\Debug\Orix4.csprojResolveAssemblyReference.cache
+C:\CSHARP_WORKSPACE\Orix4\Orix4\bin\Debug\Orix4.exe.manifest
+C:\CSHARP_WORKSPACE\Orix4\Orix4\bin\Debug\Orix4.application
+C:\CSHARP_WORKSPACE\Orix4\Orix4\obj\Debug\Orix4.TrustInfo.xml
+C:\CSHARP_WORKSPACE\Orix4\Orix4\obj\Debug\Orix4.exe.manifest
+C:\CSHARP_WORKSPACE\Orix4\Orix4\obj\Debug\Orix4.application
